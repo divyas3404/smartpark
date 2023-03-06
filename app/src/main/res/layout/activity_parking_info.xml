@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ParkingInfo">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/Rowtext"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="Why ParkSetup Guidance System?"
+            android:textColor="#0066ff"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <TextView
+
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/Rowtext1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:text="ParkSetup Parking Guidance System is economical in terms of time, personnel and cost, but it provides maximum benefit in optimization of high capacity parking areas."
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textColor="#000" />
+
+        <TextView
+
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/Rowtext2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:text="Easy to Use!"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textColor="#020205" />
+
+        <TextView
+
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/Rowtext3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:text="It optimizes the parking lot management process by directing the visitor vehicles to the empty parking areas in the parking lot quickly, accurately, safely and easily."
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textColor="#000" />
+
+        <TextView
+
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/Rowtext4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:text="Low Cost!"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textColor="#020205" />
+
+
+        <TextView
+
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/Rowtext85"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:text="Oliptek - ParkSetup car park guidance system significantly reduces the costs required to manage the car traffic in the car park correctly."
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textColor="#020205" />
+        <TextView
+
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/Rowtext5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:text="Time Saving!"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textColor="#020205" />
+
+
+        <TextView
+
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/Rowtext6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:text="Reduces the mobility of the drivers in the parking lot, eliminating the time loss while searching for empty parking spaces!"
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textColor="#020205" />
+
+        <TextView
+
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/Rowtext7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:text="Optimizes Processes!"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textColor="#020205" />
+
+        <TextView
+
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/Rowtext8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:text="It allows you to monitor vehicle movements in the parking lot instantly, either via desktop or mobile software, and optimizes your management processes."
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textColor="#020205" />
+
+
+    </LinearLayout>
+
+</ScrollView>
